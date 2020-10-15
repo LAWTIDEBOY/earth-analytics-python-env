@@ -2,3 +2,6 @@
 .DS_Store
 .nbgrader.log
 3.6
+data/
+*.nc
+*.csv
